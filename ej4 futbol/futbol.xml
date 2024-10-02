@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="futbol.xsl" type="text/xsl"?>
+<liga>
+  <equipo nombre="GranadaFC">
+    <puntuacion>5</puntuacion>
+    <partidos-ganados>2</partidos-ganados>
+    <partidos-perdidos>1</partidos-perdidos>
+    <partidos-empatados>1</partidos-empatados>
+  </equipo>
+    <equipo nombre="Real-Madrid">
+    <puntuacion>8</puntuacion>
+    <partidos-ganados>4</partidos-ganados>
+    <partidos-perdidos>0</partidos-perdidos>
+    <partidos-empatados>0</partidos-empatados>
+  </equipo>
+    <equipo nombre="BarcelonaFC">
+    <puntuacion>7</puntuacion>
+    <partidos-ganados>3</partidos-ganados>
+    <partidos-perdidos>0</partidos-perdidos>
+    <partidos-empatados>1</partidos-empatados>
+  </equipo>
+    <equipo nombre="BetisFC">
+    <puntuacion>4</puntuacion>
+    <partidos-ganados>2</partidos-ganados>
+    <partidos-perdidos>2</partidos-perdidos>
+    <partidos-empatados>0</partidos-empatados>
+  </equipo>
+    <equipo nombre="Rayo-Vallecano">
+    <puntuacion>0</puntuacion>
+    <partidos-ganados>0</partidos-ganados>
+    <partidos-perdidos>4</partidos-perdidos>
+    <partidos-empatados>0</partidos-empatados>
+  </equipo>
+</liga>

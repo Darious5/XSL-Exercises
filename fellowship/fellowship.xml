@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="fellowship.xsl"?>
+<fellowship>
+  <member race="istar" dead="no">
+    <name>Gandalf</name>
+    <surname></surname>
+    <aka>Gandalf the gray</aka>
+    <father></father>
+    <home>Aman</home>
+    <description>
+      <hair beard="yes">gray</hair>
+      <weapon>magic</weapon>
+    </description>
+  </member>
+  <member race="human" dead="no">
+    <name>Aragorn</name>
+    <surname></surname>
+    <aka>Strider</aka>
+    <father>Arathorn</father>
+    <home>Gondor</home>
+    <description>
+      <hair beard="yes">dark</hair>
+      <weapon name="Andúril">sword</weapon>
+    </description>
+  </member>
+  <member race="hobbit" dead="no">
+    <name>Frodo</name>
+    <surname>Baggins</surname>
+    <aka>The ring bearer</aka>
+    <father>Drogo</father>
+    <home>The Shire</home>
+    <description>
+      <hair beard="no">dark</hair>
+      <weapon name="Dardo">sword</weapon>
+    </description>
+  </member>
+  <member race="hobbit" dead="no">
+    <name>Samwise</name>
+    <surname>Gamgee</surname>
+    <aka>Sam</aka>
+    <father>Hamfast</father>
+    <home>The Shire</home>
+    <description>
+      <hair beard="no">blond</hair>
+      <weapon>pan</weapon>
+    </description>
+  </member>
+  <member race="hobbit" dead="no">
+    <name>Peregrin</name>
+    <surname>Took</surname>
+    <aka>Pippin</aka>
+    <father>Paladin II</father>
+    <home>The Shire</home>
+    <description>
+      <hair beard="no">dark</hair>
+      <weapon>barrow-blade</weapon>
+    </description>
+  </member>
+  <member race="hobbit" dead="no">
+    <name>Meriadoc</name>
+    <surname>Brandybuck</surname>
+    <aka>Merry</aka>
+    <father>Saradock</father>
+    <home>The Shire</home>
+    <description>
+      <hair beard="no">blond</hair>
+      <weapon>barrow-blade</weapon>
+    </description>
+  </member>
+  <member race="elf" dead="no">
+    <name>Legolas</name>
+    <surname></surname>
+    <aka>Greenleaf</aka>
+    <father>Thranduil</father>
+    <home>Mirkwood</home>
+    <description>
+      <hair beard="no">light blond</hair>
+      <weapon>bow</weapon>
+    </description>
+  </member>
+  <member race="dwarf" dead="no">
+    <name>Gimli</name>
+    <surname></surname>
+    <aka>Lockbearer</aka>
+    <father>Glóin</father>
+    <home>Ered Luin</home>
+    <description>
+      <hair beard="yes">red</hair>
+      <weapon>axe</weapon>
+    </description>
+  </member>
+  <member race="human" dead="yes">
+    <name>Boromir</name>
+    <surname></surname>
+    <aka></aka>
+    <father>Denethor II</father>
+    <home>Gondor</home>
+    <description>
+      <hair beard="yes">dark</hair>
+      <weapon>sword</weapon>
+    </description>
+  </member>
+</fellowship>
